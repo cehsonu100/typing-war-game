@@ -25,7 +25,7 @@ export default function Home() {
               target="_blank"
               rel="noopener noreferrer"
             >
-              Github URL{' '}
+              Github{' '}
             </a>
           </div>
         </div>
